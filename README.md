@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Juan, and I'm a web developer, ,Lately I've been working mostly with front-end technologies but
+Hi I'm Juan, and I'm a web developer, Lately I've been working mostly with front-end technologies but
 I really like the back-end development, I hope someday I could make a contribution to any 
 open source repository so I can show it off.
 
