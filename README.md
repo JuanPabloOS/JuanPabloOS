@@ -80,7 +80,7 @@ And these are some other tools I'm familiar with
 
 We can get in touch via my email <jp.oes@hotmail.com>
 
-<img alt="followers" src="https://img.shields.io/github/followers/JuanPabloOS?style=social"> These could be some friends you would also like to visit their home pages.
+<img alt="followers" src="https://img.shields.io/github/followers/JuanPabloOS?style=social"> These could be some friends you would also like to visit their home pages. Quite popular, right?
 
 <br/>
 
