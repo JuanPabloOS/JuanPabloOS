@@ -8,19 +8,23 @@ I'm a web developer.
 Lately I've been working mostly with front-end technologies like React.js but
 I really like the back-end development. I tried to get involved with mobile development by developing a pokédex with Flutter, you can see what I could achieve [here](https://github.com/JuanPabloOS/pokedex "My humble pokédex").
 
-
-
 </p>
-
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabloos&layout=compact&card_width=300&hide=JupyterNotebook&langs_count=8" alt="Most used languages" />
+  <br />
+  <small>I promise, I've done much more with JavaScript.</small>
+  <br />
+  <br />
+</div>
 <p align='center'>
   
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
-  <a href="https://www.instagram.com/juan.oes/">
+  <a href="https://www.instagram.com/juan.oes/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/@juan.oes%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/juanpablo-os/">
+  <a href="https://www.linkedin.com/in/juanpablo-os/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/My Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
   
@@ -71,7 +75,8 @@ And these are some other tools I'm familiar with
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
+<br/>
+<img alt="AWS" src="https://img.shields.io/badge/Typescript%20-%23FF9900.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=2F74C0"/>
 </p>
 
 <p align="center">
